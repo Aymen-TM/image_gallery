@@ -1,3 +1,7 @@
+# Description 
+
+Image Gallery React web app using Pixabay API and Tailwind  for CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
