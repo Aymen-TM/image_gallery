@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Aymen-TM/image_gallery/static/css/main.df4c2a80.css",
-    "main.js": "/Aymen-TM/image_gallery/static/js/main.7f3dc9b4.js",
-    "index.html": "/Aymen-TM/image_gallery/index.html",
-    "main.df4c2a80.css.map": "/Aymen-TM/image_gallery/static/css/main.df4c2a80.css.map",
-    "main.7f3dc9b4.js.map": "/Aymen-TM/image_gallery/static/js/main.7f3dc9b4.js.map"
+    "main.css": "/image_gallery/static/css/main.df4c2a80.css",
+    "main.js": "/image_gallery/static/js/main.7f3dc9b4.js",
+    "index.html": "/image_gallery/index.html",
+    "main.df4c2a80.css.map": "/image_gallery/static/css/main.df4c2a80.css.map",
+    "main.7f3dc9b4.js.map": "/image_gallery/static/js/main.7f3dc9b4.js.map"
   },
   "entrypoints": [
     "static/css/main.df4c2a80.css",
